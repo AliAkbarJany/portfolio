@@ -39,7 +39,7 @@ const Electric = () => {
                 <div className='mt-5'>
                     <div class="card-actions btn-group">
                         <button class="btn btn-accent font-bold">
-                            <a href="https://assignment-11-ca5e6.web.app/" target="_blank">
+                            <a href="https://electric-warehouse-client.netlify.app//" target="_blank">
                                 <div className='grid justify-items-center'>
                                     <div className=''>
                                         <CgMediaLive ></CgMediaLive>
