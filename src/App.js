@@ -11,6 +11,7 @@ import Bike from './Pages/Bike/Bike';
 import Electric from './Pages/Electric/Electric';
 import Wedding from './Pages/Wedding/Wedding';
 import Technology from './Pages/Technology/Technology';
+import FoodNinja from './Pages/FoodNinja/FoodNinja';
 // import Contact from './Pages/Contact/Contact';
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
           <Route path='/bike' element={<Bike></Bike>}></Route>
           <Route path='/electric' element={<Electric></Electric>}></Route>
           <Route path='/wedding' element={<Wedding></Wedding>}></Route>
+          <Route path='/foodNinja' element={<FoodNinja></FoodNinja>}></Route>
           
       </Routes>
       {/* <Footer></Footer> */}
